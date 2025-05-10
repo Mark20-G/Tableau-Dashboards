@@ -1,5 +1,5 @@
 
-📊 Tableau Dashboard Portfolio
+**📊 Tableau Dashboard Portfolio**
 
 Welcome to my Tableau dashboard portfolio. Here you'll find two interactive dashboards built with Tableau Public, designed to demonstrate my skills in data visualization, analytical thinking, and storytelling through data. Each project includes a PowerPoint file outlining the original requirements and goals.
 
