@@ -80,3 +80,11 @@ Filters by year, department, job title, city, and state.
 Toggle between high-level summary and detailed employee records.
 
 Interactive maps, lollipop charts, treemaps, and tables.
+
+**👨‍💻 About Me**
+
+Hello! My name is Mark, and I’m currently studying Data Analytics.
+
+I am currently building my data-projects portfolio, and i am inviting to visit my other projects on my profile!
+
+Stay tuned for more! 🚀
