@@ -83,8 +83,10 @@ Interactive maps, lollipop charts, treemaps, and tables.
 
 **👨‍💻 About Me**
 
-Hello! My name is Mark, and I’m currently studying Data Analytics.
+Hi! I'm Mark,
 
-I am building my data-projects portfolio, and i invite you to visit my other projects on my profile!
+I am currently building a portfolio of real-world data projects, combining SQL, data modeling, and business intelligence.
 
-Stay tuned for more! 🚀
+This is one of several projects in my GitHub portfolio — you can also check out my [📊 data warehouse] .
+
+More projects coming soon – stay tuned! 🚀
