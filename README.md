@@ -91,6 +91,7 @@ I am currently building a portfolio of real-world data projects, combining SQL, 
 
 This is one of several projects in my GitHub portfolio — you are invited to watch my [📊 data warehouse](https://github.com/Mark20-G/SQL-DWH-Project) project
 where i built a modern Data Warehouse using SQL server including ETL, data modeling and analytics.
+
 you can also watch my [Adventure Works](https://github.com/Mark20-G/Adventure-Works-Project/tree/main) Project where i built an end-to-end Data Project, From Data modeling and cleaning to 
 analysing, building dashboards and writing summary presentation
 
