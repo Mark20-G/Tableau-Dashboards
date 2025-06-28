@@ -6,7 +6,8 @@ Welcome to my Tableau dashboard portfolio. Here you'll find two interactive dash
 **🔷 1. Sales Analytics Project**
 **📍 Dashboard Link:** [Tablau Customer dashboard](https://public.tableau.com/views/SalesProject_17465447918680/CustomerDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-**📄 Project Requirements:** [Sales Project Requirements.pptx](https://github.com/user-attachments/files/20140938/Sales.Project.Requirements.pptx)
+**📄 Project Requirements:** [Sales Project Requirements.pptx](https://github.com/user-attachments/files/20959670/Sales.Project.Requirements.pptx)
+
 
 **🎯 Project Objective**
 
@@ -47,7 +48,8 @@ Charts are fully interactive with filter and drill-down capabilities.
 **🟨 2. Human Resources Project**
 **📍 Dashboard Link:** [Tableau HR dashboard](https://public.tableau.com/views/HRproject_17467142966980/SummaryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-**📄 Project Requirements:** [HR Project Requirements.pptx](https://github.com/user-attachments/files/20140991/HR.Project.Requirements.pptx)
+**📄 Project Requirements:** [HR Project Requirements.pptx](https://github.com/user-attachments/files/20959671/HR.Project.Requirements.pptx)
+
 
 **🎯 Project Objective**
 
